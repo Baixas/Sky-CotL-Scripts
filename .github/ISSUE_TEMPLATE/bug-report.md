@@ -1,16 +1,13 @@
 ---
-name: Bug report
+name: Bug Report
 about: Create a report to help us improve
 title: ''
-labels: ''
+labels: bug
 assignees: ''
-
 ---
 
 <!--Check out the FAQ and other related issues before filling a new one!
-
 This repo is run by volunteers only, we're not responsible for any errors or damage caused by third-party software nor can we fix them!
-
 For technical issues that require urgent attention, leave us a note down below.-->
 
 **Description:**
